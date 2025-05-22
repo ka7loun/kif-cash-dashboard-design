@@ -1,30 +1,40 @@
-# KifCash dashboard design
+# KifCash Agent Dashboard
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+<p align="center">
+  <img src="public/images/kifcash-logo.png" alt="KifCash Logo" width="300" />
+</p>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kahlounahmed1-gmailcoms-projects/v0-kif-cash-dashboard-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/iwUiWxUgTRC)
+A modern, responsive financial agent dashboard for the KifCash platform. This dashboard enables agents to manage user accounts, process money deposits, track transactions, and analyze performance metrics.
 
-## Overview
+## Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- **Modern UI**: Clean, intuitive interface with responsive design for all device sizes
+- **User Management**: Create and manage user accounts with identity verification
+- **Transaction Processing**: Process money deposits with real-time validation
+- **Transaction History**: View and filter detailed transaction records
+- **User Directory**: Browse and manage user profiles with quick actions
+- **Analytics Dashboard**: Visualize transaction data, user activity, and performance metrics
+- **Branded Experience**: Consistent branding throughout the application
 
-## Deployment
+## Technologies Used
 
-Your project is live at:
+- **Next.js**: React framework for building the application
+- **TypeScript**: For type-safe code
+- **Tailwind CSS**: For styling and responsive design
+- **Shadcn UI**: Component library for consistent UI elements
+- **Recharts**: For data visualization
+- **Lucide React**: For icons
 
-**[https://vercel.com/kahlounahmed1-gmailcoms-projects/v0-kif-cash-dashboard-design](https://vercel.com/kahlounahmed1-gmailcoms-projects/v0-kif-cash-dashboard-design)**
+## Getting Started
 
-## Build your app
+### Prerequisites
 
-Continue building your app on:
+- Node.js 18.x or higher
+- npm or yarn
 
-**[https://v0.dev/chat/projects/iwUiWxUgTRC](https://v0.dev/chat/projects/iwUiWxUgTRC)**
+### Installation
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/kifcash-dashboard.git
+   cd kifcash-dashboard
