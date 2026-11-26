@@ -36,5 +36,5 @@ A modern, responsive financial agent dashboard for the KifCash platform. This da
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kifcash-dashboard.git
-   cd kifcash-dashboard
+   git clone https://github.com/ka7loun/kif-cash-dashboard-design.git
+   cd kif-cash-dashboard-design
